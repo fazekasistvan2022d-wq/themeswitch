@@ -53,12 +53,12 @@ ul {
     padding: 20px;
     margin-bottom: 10px;
 }
-.panel-light {
+.light-theme {
     color: #222;
     background: #fff;
 }
 
-.panel-dark {
+.dark-theme {
     color: #fff;
     background: rgb(23, 32, 42);
 }
